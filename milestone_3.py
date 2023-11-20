@@ -30,5 +30,3 @@ def ask_for_input():
             # Exiting the loop if the guess is valid
             break
 
-# Calling the ask_for_input function to start the game
-ask_for_input()
