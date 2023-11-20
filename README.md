@@ -10,3 +10,7 @@ Script milestone_3.py:
   - asks the user to specify a character;
   - checks whether it is a single alphabetical character
   - checks whether the character is indeed in the randomly chosen word.
+
+Script milestone_4.py applied OOP principles to the above tasks:
+- creates a hangman class with separate "Ask_for_input" and "check_guess" methods,
+- attributes include, word_guessed, num_lives_remaining, list_of_guesses.
